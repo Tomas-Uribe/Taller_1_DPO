@@ -1,0 +1,13 @@
+tipo:Gas natural:30000:420.0
+tipo:tipo 4 gasolina:50000:69420.0
+tipo:Extra:17000:100.0
+tipo:Gasolina Corriente:15000:69.0
+surtidor:Pedro Perez:Gas natural:0.0:tipo 4 gasolina:0.0:Extra:0.0:Gasolina Corriente:0.0
+surtidor:Seneca La Cabra:Gas natural:0.0:tipo 4 gasolina:0.0:Extra:0.0:Gasolina Corriente:0.0
+surtidor:Juan:Gas natural:0.0:tipo 4 gasolina:0.0:Extra:0.0:Gasolina Corriente:0.0
+surtidor:John Doe:Gas natural:0.0:tipo 4 gasolina:0.0:Extra:0.0:Gasolina Corriente:0.0
+empleado:Bob:0
+empleado:John Doe:0
+empleado:Pedro Perez:0
+empleado:Seneca La Cabra:0
+empleado:Juan:0
